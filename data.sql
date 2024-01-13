@@ -1,0 +1,21 @@
+INSERT INTO breed (name) VALUES ('French bulldog');
+INSERT INTO breed (name) VALUES ('Labrador retriever');
+INSERT INTO breed (name) VALUES ('Golden retriever');
+INSERT INTO breed (name) VALUES ('German shepherd');
+INSERT INTO breed (name) VALUES ('Poodle');
+INSERT INTO breed (name) VALUES ('Bulldog');
+INSERT INTO breed (name) VALUES ('Rottweiler');
+INSERT INTO breed (name) VALUES ('Beagle');
+INSERT INTO breed (name) VALUES ('Daschund');
+INSERT INTO breed (name) VALUES ('German shorthaired pointer');
+INSERT INTO breed (name) VALUES ('Pembroke Welsh corgi');
+INSERT INTO breed (name) VALUES ('Australian shepherd');
+INSERT INTO breed (name) VALUES ('Yorkshire terrier');
+INSERT INTO breed (name) VALUES ('Cavalier King Charles spaniel');
+INSERT INTO breed (name) VALUES ('Doberman pinscher');
+INSERT INTO breed (name) VALUES ('Boxer');
+INSERT INTO breed (name) VALUES ('Miniature schnauzer');
+INSERT INTO breed (name) VALUES ('Cane corso');
+INSERT INTO breed (name) VALUES ('Great Dane');
+INSERT INTO breed (name) VALUES ('Shih Tzu');
+
